@@ -1,16 +1,35 @@
-## Hi there 👋
+# My Profile
 
-<!--
-**artymst/artymst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there!  
+I'm an experimental developer who loves building things that mix creativity, code, and education.  
+I’ve worked on **NovaScript**, my own simple, educational programming language built to help people understand how coding works from the ground up.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I Do
+- **Language Design:** Created *NovaScript*, an easy-to-learn educational coding language that encourages experimentation and learning.  
+- **Web Development:** Explore web-first tools and technologies for interactive learning experiences.  
+- **Graphic & UI/UX Design:** Craft clean, functional designs using **Figma**, **Framer**, and **Vercel**.  
+- **Creative Experiments:** I enjoy pushing the limits of what’s possible with minimal tools and lots of curiosity.
+
+---
+
+## 💡 Projects
+- **NovaScript** — An educational scripting language focused on clarity and simplicity.  
+- **Learning Interfaces** — Prototypes of visual, interactive ways to teach programming concepts.  
+- **Design Systems** — UI/UX projects balancing accessibility, creativity, and technical innovation.
+
+---
+
+## 🛠️ Tech & Tools
+- **Languages & Frameworks:** HTML, JavaScript, NovaScript  
+- **Design:** Figma, Framer  
+- **Deployment:** Vercel, GitHub Pages  
+
+---
+
+## 🌐 Connect
+I’m always experimenting and learning new things.  
+Check out my projects here or reach out if you want to collaborate on creative dev or design work!
+
+🚀 *"Build. Design. Learn. Repeat."*
