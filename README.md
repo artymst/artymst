@@ -27,9 +27,4 @@ I’ve worked on **NovaScript**, my own simple, educational programming language
 - **Deployment:** Vercel, GitHub Pages  
 
 ---
-
-## 🌐 Connect
-I’m always experimenting and learning new things.  
-Check out my projects here or reach out if you want to collaborate on creative dev or design work!
-
 🚀 *"Build. Design. Learn. Repeat."*
