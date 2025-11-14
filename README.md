@@ -22,8 +22,8 @@ I’ve worked on **NovaScript**, my own simple, educational programming language
 ---
 
 ## 🛠️ Tech & Tools
-- **Languages & Frameworks:** HTML, JavaScript, NovaScript  
-- **Design:** Figma, Framer  
+- **Languages & Frameworks:** HTML, JavaScript, UE5 Blueprints, NovaScript  
+- **Design:** Figma, Framer, Spline, Blender
 - **Deployment:** Vercel, GitHub Pages  
 
 ---
