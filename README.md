@@ -1,4 +1,4 @@
-# My Profile
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=400&color=F7F7F7&width=435&separator=%3C&lines=art_ymst's+README%3CA+coder%2C+designer+and+artist%3CExperience+in+HTML%2C+Python+etc;%3CBuild.+Design.+Learn.+Repeat.)](https://git.io/typing-svg)
 
 Hey there!  
 I'm an experimental developer who loves building things that mix creativity, code, and education.  
